@@ -36,4 +36,4 @@ function Notify(titletxt, text, time)
     GUI:Destroy();
 end
 
-Notify("Script Đang Được Update", "Vui Lòng Quay Lại Sau 21/11", 5)
+Notify("Script Đang Được Update", "Vui Lòng Quay Lại Sau 22/11", 5)
